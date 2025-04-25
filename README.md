@@ -21,17 +21,7 @@ A powerful and elegant image captioning system built with the cutting-edge **BLI
 
 ## 🖼️ Demo
 
-> Upload any image and get a caption like magic! ✨
 
-**Input Image:**
-
-<img src="https://github.com/salesforce/BLIP/blob/main/demo/demo1.jpg?raw=true" width="400"/>
-
-**Generated Caption:**
-
-> *"A man and a woman are sitting at a table with a laptop."*
-
----
 
 ## 📦 Installation
 
