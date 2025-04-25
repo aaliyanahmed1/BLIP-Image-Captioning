@@ -30,3 +30,12 @@ A powerful and elegant image captioning system built with the cutting-edge **BLI
 git clone https://github.com/yourusername/blip-image-captioning.git
 cd blip-image-captioning
 pip install -r requirements.txt
+
+
+🧠 Model Info
+BLIP: A vision-language pretraining framework by Salesforce Research.
+
+Architecture: Uses Vision Transformers (ViT) for image encoding and Transformer decoders for text generation.
+
+Pretrained Models: Downloaded via Hugging Face.
+
