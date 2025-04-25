@@ -20,6 +20,7 @@ A powerful and elegant image captioning system built with the cutting-edge **BLI
 ---
 
 ## 🖼️ Demo
+![Demo Input](https://github.com/aaliyanahmed1/BLIP-Image-Captioning/blob/main/input.jpg?raw=true)
 
 
 
